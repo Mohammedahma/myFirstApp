@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "myFirstApp"
 include(":app")
- 
+ ahhahha
